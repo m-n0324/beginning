@@ -1,4 +1,4 @@
 # beginning
-this is my first repo
-author mansi nigam 
+this is my first repo <br>
+author mansi nigam <br>
 hello
